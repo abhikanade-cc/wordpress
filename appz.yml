@@ -38,10 +38,10 @@ properties:
   MYSQL_DATABASE: wordpress
   ADMIN_USER: wpadmin
   ADMIN_EMAIL: akanade@ecloudcontrol.com
-  SITE_TITLE: "Wordpress AppZ Easy Demo"
-  SITE_URL: https://abhikanade-cc-dev-wordpress-5-5-0314efa5.lowtouch.cloud/
+  SITE_TITLE: "Wordpress AppZ workshop Demo"
+  #SITE_URL: https://abhikanade-cc-dev-wordpress-5-5-0314efa5.lowtouch.cloud/
   MYSQL_PASSWORD:
      vault: MYSQL_PASSWORD_KEY
   #Generate hash at https://ehikioya.com/wordpress-password-hash-generator/
-  ADMIN_PASSWORD_HASH: $P$BXyQ7UgXzxQveJOd696f6ZIx52oNfD.
+  ADMIN_PASSWORD_HASH: $P$BaiFcCV51lo6zT7sOThO/F3RPNAz5d/
   revision : 25
